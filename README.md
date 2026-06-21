@@ -9,7 +9,7 @@
 **_My professional interests include data analytics and sports analytics._**
 
 ## Portfolio Contents
-- Professional Self-Assessment
+- [Professional Self-Assessment](Self-Assessment.md)
 - Code Review
 - Software Design and Engineering
 - Algorithms and Data Structures
