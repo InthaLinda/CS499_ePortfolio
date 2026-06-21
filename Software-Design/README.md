@@ -14,11 +14,11 @@ _I improved the application by adding stronger input validation, duplicate usern
 
 ## Original Artifact
 
-[Download Original Inventory App](InventoryAppLInthavongsa(Original).zip)
+[Download Original Inventory App](InventoryAppLInthavongsa_Original.zip)
 
 ## Enhanced Artifact
 
-[Download Enhanced Inventory App](InventoryAppLInthavongsa(Improved).zip)
+[Download Enhanced Inventory App](InventoryAppLInthavongsa_Enhanced.zip)
 
 ## Narrative
 
