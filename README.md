@@ -1,1 +1,16 @@
-# CS499_ePortfolio
+# CS 499 Capstone ePortfolio
+
+## Welcome to my Computer Science ePortfolio
+**_This portfolio represents my growth throughout the Computer Science program and includes enhanced artifacts in:_**
+- Software Design and Engineering
+- Algorithms and Data Structures
+- Databases
+
+**_My professional interests include data analytics and sports analytics._**
+
+## Portfolio Contents
+- Professional Self-Assessment
+- Code Review
+- Software Design and Engineering
+- Algorithms and Data Structures
+- Databases
