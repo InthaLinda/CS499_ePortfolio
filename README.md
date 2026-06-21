@@ -10,7 +10,7 @@
 
 ## Portfolio Contents
 - [Professional Self-Assessment](Self-Assessment.md)
-- Code Review
+- [Code Review](code-review.md)
 - Software Design and Engineering
 - Algorithms and Data Structures
 - Databases
