@@ -22,4 +22,4 @@ _I improved the database architecture by adding environment-variable-based confi
 
 ## Narrative
 
-[Download Database Narrative](CS499_Milestone4.docx
+[Download Database Narrative](CS499_Milestone4.docx)
