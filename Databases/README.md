@@ -18,7 +18,7 @@ _I improved the database architecture by adding environment-variable-based confi
 
 ## Enhanced Artifact
 
-[Download Enhanced Grazioso Salvare Dashboard](Grazioso_Enhanced.zip)
+[Download Enhanced Grazioso Salvare Dashboard](Graziozo_Enhanced.zip)
 
 ## Narrative
 
