@@ -12,5 +12,5 @@
 - [Professional Self-Assessment](Self-Assessment.md)
 - [Code Review](code-review.md)
 - [Software Design and Engineering](Software-Design/README.md)
-- Algorithms and Data Structures
+- [Algorithms and Data Structures](Algorithms/README.md)
 - Databases
