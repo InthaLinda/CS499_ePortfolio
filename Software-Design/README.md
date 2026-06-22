@@ -22,4 +22,4 @@ _I improved the application by adding stronger input validation, duplicate usern
 
 ## Narrative
 
-The milestone narrative will be added here.
+[Download Inventory App Narrative](CS499_Milestone2.docx)
