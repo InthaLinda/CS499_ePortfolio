@@ -14,12 +14,12 @@ _I improved the database architecture by adding environment-variable-based confi
 
 ## Original Artifact
 
-The original project files will be added here.
+[Download Original Grazioso Salvare Dashboard](Grazioso_Original.zip)
 
 ## Enhanced Artifact
 
-The enhanced project files will be added here.
+[Download Enhanced Grazioso Salvare Dashboard](Grazioso_Enhanced.zip)
 
 ## Narrative
 
-The milestone narrative will be added here.
+[Download Database Narrative](CS499_Milestone4.docx
