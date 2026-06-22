@@ -9,4 +9,4 @@
 - Databases
 
 ## Code Review Video
-[Watch code review video](PASTE-YOUR-VIDEO-LINK-HERE)
+[Watch code review video](https://youtu.be/nqYQQ4HTB7c)
