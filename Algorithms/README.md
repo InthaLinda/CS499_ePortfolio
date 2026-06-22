@@ -14,12 +14,12 @@ _I improved the program by adding binary search by bid title, runtime measuremen
 
 ## Original Artifact
 
-The original project files will be added here.
+[Download Original Vector Sorting Project](VectorSorting_Original.zip)
 
 ## Enhanced Artifact
 
-The enhanced project files will be added here.
+[Download the Enhanced Vector Sorting Project](VectorSorting_Enhanced.zip)
 
 ## Narrative
 
-The milestone narrative will be added here.
+[Download Algorithm Narrative](CS499_Milestone3.docx)
